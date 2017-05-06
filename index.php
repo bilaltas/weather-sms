@@ -84,7 +84,7 @@ $data = saveForecast();
 <head>
 	<meta charset="UTF-8"/>
 	<title>Weather SMS</title>
-	<script type="text/javascript" src="copy2clipboard.js"></script>
+	<script type="text/javascript" src="vendor/copy2clipboard.js"></script>
 </head>
 <body>
 
